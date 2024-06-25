@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Wireless Communications, University of Jyvaskyla, Jyvaskyla, Finland, Sep. 2010 – Nov. 2013
+* M.Sc (Tech.) in Communications Engineering, Helsinki University of Technology (Now Aalto University), Espoo, Finland, Sep. 2007 -Sep. 2009
+Department of Communications Engineering and Networking
+* B.E. in Measurement and Control Technology and Instrument (Signal Processing and Instrument), Jilin University, Changchun, China 2012,Sep.2003 – July 2007
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*Title: Visiting Professor, July. 2014-now
+Department of Mathematical Information Technology
+University of Jyvaskyla, Jyvaskyla, Finland
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*Title: Researcher, Jan. 2010 -- July. 2014
+Magister Solutions Ltd
+Jyvaskyla, Finland
+Research Topic: WLAN, Green communications
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Title: Researcher, Sep. 2010 – Dec. 2013
+Department of Mathematical Information Technology
+University of Jyvaskyla, Jyvaskyla, Finland
+Supervisor: Prof. Tapani Ristaniemi
+Research Topic: Study on Cross-layer optimization of Radio Resource Allocation for Heterogeneous Networks
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*Title: Research Assistant, Sep. 2008 --Sep. 2009
+Department of Communications Engineering and Networking
+Helsinki University of Technology (Now Aalto University), Espoo, Finland
+Research Topic: Study on Future Transceiver Technique
+Supervisor: Prof. Olav Tirkkonen, PhD Natalia Ermolova
+
