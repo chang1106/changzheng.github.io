@@ -18,22 +18,22 @@ Department of Communications Engineering and Networking
 
 Work experience
 ======
-*Title: Visiting Professor, July. 2014-now
+* Title: Visiting Professor, July. 2014-now
 Department of Mathematical Information Technology
 University of Jyvaskyla, Jyvaskyla, Finland
 
-*Title: Researcher, Jan. 2010 -- July. 2014
+* Title: Researcher, Jan. 2010 -- July. 2014
 Magister Solutions Ltd
 Jyvaskyla, Finland
 Research Topic: WLAN, Green communications
 
-*Title: Researcher, Sep. 2010 – Dec. 2013
+* Title: Researcher, Sep. 2010 – Dec. 2013
 Department of Mathematical Information Technology
 University of Jyvaskyla, Jyvaskyla, Finland
 Supervisor: Prof. Tapani Ristaniemi
 Research Topic: Study on Cross-layer optimization of Radio Resource Allocation for Heterogeneous Networks
 
-*Title: Research Assistant, Sep. 2008 --Sep. 2009
+* Title: Research Assistant, Sep. 2008 --Sep. 2009
 Department of Communications Engineering and Networking
 Helsinki University of Technology (Now Aalto University), Espoo, Finland
 Research Topic: Study on Future Transceiver Technique
