@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My full publication list is [here](../assets/ZhengChang_Publicationlist.pdf)
+My full publication list is [here](https://chang1106.github.io/changzheng.github.io/assets/ZhengChang_Publicationlist.pdf)
 
 Zheng Chang (S'10-M'13-SM'17) received the B.Eng. degree from Jilin University, Changchun, China in 2007, M.Sc. (Tech.) degree from Helsinki University of Technology (Now Aalto University), Espoo, Finland in 2009 and Ph.D degree from the University of Jyvaskyla, Jyvaskyla, Finland in 2013. Since 2008, he has held various research positions at Helsinki University of Technology, University of Jyvaskyla and Magister Solutions Ltd in Finland. He was a visiting researcher at Tsinghua University, China, from June to August in 2013, and at University of Houston, TX, from April to May in 2015. He has been awarded by the Ulla Tuominen Foundation, the Nokia Foundation and the Riitta and Jorma J. Takanen Foundation for his research excellence. He has been awarded as 2018 IEEE Communications Society best young researcher for Europe, Middle East and Africa Region and 2021 IEEE Communications Society MMTC Outstanding Young Researcher.
 
