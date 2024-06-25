@@ -2,6 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/
+
   - title: "Academic Service"
    url: /portfolio/
         
@@ -12,9 +13,7 @@ main:
 
 #  - title: "Teaching"
 #    url: /teaching/    
-    
-
-     
+ 
  # - title: "Blog Posts"
  #   url: /year-archive/
    
